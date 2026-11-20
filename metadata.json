@@ -1,0 +1,6 @@
+{
+  "name": "NEXORUM BILLIARDS 3D",
+  "description": "Realistic 3D billiards simulator featuring Rapier physics, 8-Ball, 9-Ball, AI opponents, local play, and authoritative online multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
